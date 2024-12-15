@@ -125,7 +125,7 @@ Connect to Twitch with a clean chat interface, allowing communication with viewe
 Our custom badge system allows us to offer our users a new way to grind for something they can see in game.
 
 <a href="https://github.com/vaqqq/holy-client">
-  <img src="images/badge.png" alt="Badge System" width="250" height="130">
+  <img src="images/badge.png" alt="Badge System" >
 </a>
 
 ---
@@ -230,9 +230,7 @@ Our beloved contributors:
 
 > [@babybloo]() | High-quality designing
 
-> [@dunedude]() | Funny features, Developer
-
-> [@Error]() | Client structure
+> [@nexawicker]() | Highly helped in general
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
