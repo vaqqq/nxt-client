@@ -232,6 +232,8 @@ Our beloved contributors:
 
 > [@nexawicker]() | Highly helped in general
 
+> [@Error]() | Code Rewrite
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
