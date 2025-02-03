@@ -1,21 +1,21 @@
 <a id="readme-top"></a>
 
-![GitHub Tag](https://img.shields.io/github/v/tag/vaqqq/holy-client?style=for-the-badge&label=version)
+![GitHub Tag](https://img.shields.io/github/v/tag/vaqqq/NXT-client?style=for-the-badge&label=version)
 ![License](https://img.shields.io/badge/Proprietary-green?style=for-the-badge&label=License)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/vaqqq/holy-client/total?style=for-the-badge)
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/vaqqq/holy-client/latest/total?style=for-the-badge)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/vaqqq/NXT-client/total?style=for-the-badge)
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/vaqqq/NXT-client/latest/total?style=for-the-badge)
 ![Discord](https://img.shields.io/discord/1269411543615930421?style=for-the-badge&label=Discord&color=%237289da&link=https%3A%2F%2Fdiscord.gg%2FmE6KyEeVMK)
 
 <br />
 <div align="center">
-  <a href="https://github.com/vaqqq/holy-client">
-    <img src="images/holy.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/vaqqq/nxt-client">
+    <img src="images/nxt_logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Holy</h3>
+  <h3 align="center">NXT</h3>
 
   <p align="center">
-    The Krunker Client of enlightenment. 
+    The future of Krunker clients. 
     <br />
     <a href="#getting-started"><strong>Getting Started »</strong></a>
     <br />
@@ -45,7 +45,7 @@
       <a href="#beta-features">Features</a> 
       <ul>
         <li><a href="#important">Important</a></li>
-        <li><a href="#holycss">HolyCSS</a></li>
+        <li><a href="#NXTcss">NXTCSS</a></li>
         <li><a href="#discord-rpc">Discord RPC</a></li>
         <li><a href="#single-key-login">Single Key Login</a></li>
         <li><a href="#unlimited-fps">Unlimited FPS</a></li>
@@ -62,17 +62,17 @@
 
 ---
 
-<!-- ABOUT HOLY -->
+<!-- ABOUT NXT -->
 ## About the Project
 
-<a href="https://github.com/vaqqq/holy-client">
-  <img src="images/holy.png" alt="Logo" width="60" height="60">
+<a href="https://github.com/vaqqq/nxt-client">
+  <img src="images/nxt_logo.png" alt="Logo" width="60" height="60">
 </a>
 
-Welcome to the Main version of [Holy](https://github.com/vaqqq/holy-client)!
+Welcome to the Main version of [NXT](https://github.com/vaqqq/nxt-client)!
 
-## What is the Holy Client?
-Holy is a client for the game krunker.io. It was developed by 3 friends who had the goal to provide a safe and efficient way to play Krunker.
+## What is the NXT Client?
+NXT is a client for the game krunker.io. It was developed by 3 friends who had the goal to provide a safe and efficient way to play Krunker.
 
 This version is full featured. If you play a lot of competitive games, our Lite version is perfect for you. It is specialized for low-end and competitive games as it does not contain any performance draining features.
 
@@ -85,10 +85,10 @@ This version is full featured. If you play a lot of competitive games, our Lite 
 
 ### Installation
 
-1. Get the latest version of the client at [[Click Here]](https://github.com/vaqqq/holy-client/releases)
+1. Get the latest version of the client at [[Click Here]](https://github.com/vaqqq/nxt-client/releases)
 2. Download the .exe file. It looks like:
    ```sh
-   Holy-Setup-{version}.exe
+   NXT-Setup-{version}.exe
    ```
 3. If Windows Defender flags the file as potentially harmful, click on `"More info"` and then `"Run anyway"` to proceed.
 
@@ -104,7 +104,7 @@ This version is full featured. If you play a lot of competitive games, our Lite 
 
 Connect the client to your Spotify account. Skip, pause/resume, and go back to previous songs seamlessly within the app.
 
-<a href="https://github.com/vaqqq/holy-client">
+<a href="https://github.com/vaqqq/nxt-client">
   <img src="images/spotify.png" alt="Spotify Logo" width="250" height="60">
 </a>
 
@@ -114,7 +114,7 @@ Connect the client to your Spotify account. Skip, pause/resume, and go back to p
 
 Connect to Twitch with a clean chat interface, allowing communication with viewers without performance loss.
 
-<a href="https://github.com/vaqqq/holy-client">
+<a href="https://github.com/vaqqq/nxt-client">
   <img src="images/twitch.png" alt="Twitch Logo" width="250" height="130">
 </a>
 
@@ -124,7 +124,7 @@ Connect to Twitch with a clean chat interface, allowing communication with viewe
 
 Our custom badge system allows us to offer our users a new way to grind for something they can see in game.
 
-<a href="https://github.com/vaqqq/holy-client">
+<a href="https://github.com/vaqqq/nxt-client">
   <img src="images/badge.png" alt="Badge System" >
 </a>
 
@@ -134,7 +134,7 @@ Our custom badge system allows us to offer our users a new way to grind for some
 
 Easily manage and switch between your accounts using our Alt Manager.
 
-<a href="https://github.com/vaqqq/holy-client">
+<a href="https://github.com/vaqqq/nxt-client">
   <img src="images/altmanager.png" alt="Alt Manager Logo" width="280" height="100">
 </a>
 
@@ -142,13 +142,13 @@ Easily manage and switch between your accounts using our Alt Manager.
 
 ---
 
-### HolyCSS
+### NXTCSS
 
 #### Custom 
 
 Uses a custom CSS that you can set using these options.
 
-<a href="https://github.com/vaqqq/holy-client">
+<a href="https://github.com/vaqqq/nxt-client">
   <img src="images/customcss.png" alt="Custom CSS Settings" width="512" height="88">
 </a>
 
@@ -157,15 +157,15 @@ To choose a file, simply navigate to the file that you would want to use as your
 
 #### Swapper
 
-Path: `%appData%/Roaming/holy/HolySwapper`
+Path: `%appData%/Roaming/NXT/NXTSwapper`
 
 Insert your CSS files here to apply them in-game. Name the game CSS as `main_custom` and the hub CSS as `social_custom`.
 
 #### Client
 
-Allows you to choose one of the CSS's that are built into the Holy.
+Allows you to choose one of the CSS's that are built into the NXT.
 
-<a href="https://github.com/vaqqq/holy-client">
+<a href="https://github.com/vaqqq/nxt-client">
   <img src="images/clicss.png" alt="Built-in CSS Setting" width="512" height="88">
 </a>
 
@@ -179,7 +179,7 @@ Disables any Client CSS that is being used.
 
 Settings for your Discord Rich Presence.
 
-<a href="https://github.com/vaqqq/holy-client">
+<a href="https://github.com/vaqqq/nxt-client">
   <img src="images/discord.png" alt="Built-in CSS Setting" width="512" height="183">
 </a>
 
@@ -264,8 +264,8 @@ Distributed under a proprietary license. See `LICENSE.md` for more information.
 ## Contact
 
 - Discord Support Server - [[Click Here]](https://discord.gg/mE6KyEeVMK)
-- Email - contact@holy-client.com
-- Website - [holy-client.com](https://holy-client.com/)
+- Email - contact@NXT-client.com
+- Website - [NXT-client.com](https://NXT-client.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
