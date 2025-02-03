@@ -45,7 +45,7 @@
       <a href="#beta-features">Features</a> 
       <ul>
         <li><a href="#important">Important</a></li>
-        <li><a href="#NXTcss">NXTCSS</a></li>
+        <li><a href="#nxt-css">NXT CSS</a></li>
         <li><a href="#discord-rpc">Discord RPC</a></li>
         <li><a href="#single-key-login">Single Key Login</a></li>
         <li><a href="#unlimited-fps">Unlimited FPS</a></li>
@@ -112,7 +112,9 @@ Connect the client to your Spotify account. Skip, pause/resume, and go back to p
 
 - ![Static Badge](https://img.shields.io/badge/Twitch-%23383838?style=for-the-badge&logo=twitch)
 
-Connect to Twitch with a clean chat interface, allowing communication with viewers without performance loss.
+Connect to Twitch with a clean chat interface, allowing communication with viewers without performance loss. 
+
+Supports pretty much any emotes such as BTTV emotes, FrankerFacez emotes, 7TV emotes, and normal Twitch emotes.
 
 <a href="https://github.com/vaqqq/nxt-client">
   <img src="images/twitch.png" alt="Twitch Logo" width="250" height="130">
@@ -142,7 +144,7 @@ Easily manage and switch between your accounts using our Alt Manager.
 
 ---
 
-### NXTCSS
+### NXT CSS
 
 #### Custom 
 
