@@ -264,7 +264,7 @@ Distributed under a proprietary license. See `LICENSE.md` for more information.
 ## Contact
 
 - Discord Support Server - [[Click Here]](https://discord.gg/mE6KyEeVMK)
-- Email - contact@NXT-client.com
+- Email - contact@nxt-client.com
 - Website - [NXT-client.com](https://NXT-client.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
