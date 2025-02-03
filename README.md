@@ -114,7 +114,9 @@ Connect the client to your Spotify account. Skip, pause/resume, and go back to p
 
 Connect to Twitch with a clean chat interface, allowing communication with viewers without performance loss. 
 
-Supports pretty much any emotes such as BTTV emotes, FrankerFacez emotes, 7TV emotes, and normal Twitch emotes.
+Supports channel badges like mod, subscriber, and other Twitch-based badges.
+
+Also supports pretty much any emotes such as BTTV emotes, FrankerFacez emotes, 7TV emotes, and normal Twitch emotes.
 
 <a href="https://github.com/vaqqq/nxt-client">
   <img src="images/twitch.png" alt="Twitch Logo" width="250" height="130">
@@ -267,7 +269,7 @@ Distributed under a proprietary license. See `LICENSE.md` for more information.
 
 - Discord Support Server - [[Click Here]](https://discord.gg/mE6KyEeVMK)
 - Email - contact@nxt-client.com
-- Website - [NXT-client.com](https://NXT-client.com/)
+- Website - [nxt-client.com](https://nxt-client.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
