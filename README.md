@@ -97,7 +97,7 @@ This version is full featured. If you play a lot of competitive games, our Lite 
 ---
 
 <!-- FEATURES -->
-## Beta Features
+## Features
 
 ### Important
 - ![Static Badge](https://img.shields.io/badge/Spotify-%23383838?style=for-the-badge&logo=spotify)
