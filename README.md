@@ -122,6 +122,14 @@ Also supports pretty much any emotes such as BTTV emotes, FrankerFacez emotes, 7
   <img src="images/twitch.png" alt="Twitch Logo" width="250" height="130">
 </a>
 
+### Content Creator Activity Display
+
+This is just a little window in the top right of your main menu that shows which of the CCs that work with NXT are live.
+
+<a href="https://github.com/vaqqq/nxt-client">
+  <img src="images/cc_container.png" alt="CC COntainer" width="175" height="160">
+</a>
+
 ---
 
 - ![Static Badge](https://img.shields.io/badge/badges-02B5EC?style=for-the-badge&logoColor=%2302B5EC)
