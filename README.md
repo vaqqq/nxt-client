@@ -147,10 +147,51 @@ Our custom badge system allows us to offer our users a new way to grind for some
 Easily manage and switch between your accounts using our Alt Manager.
 
 <a href="https://github.com/vaqqq/nxt-client">
-  <img src="images/altmanager.png" alt="Alt Manager Logo" width="280" height="100">
+  <img src="images/altmanager.png" alt="Alt Manager Logo" width="370" height="150">
 </a>
 
 `Note: All your account information is stored locally on your machine and is always accessible. The passwords are also all encrypted with a strong encryption algorithm.`
+
+*Available when using the NXT Launcher
+
+---
+
+- ![Static Badge](https://img.shields.io/badge/SkyColor-000000?style=for-the-badge)
+
+
+Adjust sky colors, gradients, fog, ambient lighting, and map elements in real time. You can even replace selected textures with your own images or the NXT logo creating a unique look.
+
+<a href="https://github.com/vaqqq/nxt-client">
+  <img src="images/skycolor.png" alt="Alt Manager Logo" width="370" height="195">
+</a>
+
+*Available when using the NXT Launcher
+
+---
+
+- ![Static Badge](https://img.shields.io/badge/QuickEditor-b027cc?style=for-the-badge)
+
+
+Take full control of your in game interface with our Quick Editor. Freely move, enable, or disable most Krunker UI elements and position them exactly where you want using a live visual preview. ^^
+
+<a href="https://github.com/vaqqq/nxt-client">
+  <img src="images/quickeditor.png" alt="Alt Manager Logo" width="370" height="195">
+</a>
+
+*Available when using the NXT Launcher
+
+---
+
+- ![Static Badge](https://img.shields.io/badge/KeyStrokes-c6ed5a?style=for-the-badge)
+
+
+Create your ideal keystrokes overlay with full customization. Add, remove, and reposition keys freely, organize them into groups, and personalize their shape, labels, effects, widgets, and overall canvas. With live preview and theme import/export support you can build a clean overlay that perfectly matches your setup and playstyle.
+
+<a href="https://github.com/vaqqq/nxt-client">
+  <img src="images/keystrokes.png" alt="Alt Manager Logo" width="370" height="195">
+</a>
+
+*Available when using the NXT Launcher
 
 ---
 
