@@ -74,7 +74,7 @@ Welcome to the Main version of [NXT](https://github.com/vaqqq/nxt-client)!
 ## What is the NXT Client?
 NXT is a client for the game krunker.io. It was developed by 3 friends who had the goal to provide a safe and efficient way to play Krunker.
 
-This version is full featured. If you play a lot of competitive games, our Lite version is perfect for you. It is specialized for low-end and competitive games as it does not contain any performance draining features.
+This is our full-featured version, perfectly suited for competitive gaming and known for its uniquely smooth gameplay experience. It combines all available features with excellent performance, making it ideal for players who want the complete experience without compromising competitiveness.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
